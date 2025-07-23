@@ -1,4 +1,3 @@
-```markdown
 # SystemC-Based NAND Flash Functional Model
 
 This project is a lightweight functional model of a NAND flash memory built using SystemC. It simulates basic NAND operations such as **read**, **write**, and **erase** at a block/page level. The goal is to provide an abstract yet realistic behavioral representation of NAND flash suitable for architecture exploration, early firmware validation, or educational purposes.
